@@ -1,11 +1,6 @@
 # PersonalAssistant  
 
-[![Made By](https://img.shields.io/badge/Made%20by-Roshan-blue.svg)](https://github.com/roshan9419) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/roshan9419) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/roshan9419) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/roshan9419) [![Stars](https://img.shields.io/github/stars/roshan9419/PersonalAssistantChatbot.svg?style=flat&color=orange)](https://github.com/roshan9419) [![Top Language](https://img.shields.io/github/languages/top/roshan9419/PersonalAssistantChatbot.svg?style=flat&color=informational)](https://github.com/roshan9419) [![Issues](https://img.shields.io/github/issues/roshan9419/PersonalAssistantChatbot.svg)](https://github.com/roshan9419) [![PR](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/roshan9419)
-<br>
-
 *It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....*  
-
-![alt text](thumbnail.jpg)
 
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
@@ -208,31 +203,3 @@
 - You're so funny  
 - Thank You  
 - I'm sorry  
-
-
-### To get started, run SECURITY.py file to register your face and to use it...  
-
-##### Watch the demo here 👇👇👇
-https://www.youtube.com/watch?v=tbw7VyBGSw0  
-
-## Common Installation Issues  
-```
-pyaudio not installing  
-  1. Download the pyaudio wheel version from https://www.lfd.uci.edu/~gohlke/pythonlibs/ (eg, if you have python version 3.7, download the file containing cp37)
-  2. Install it using (eg, pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl)
-```
-
-(USE PYTHON <= 3.8 WHICH SUPPORTS ALL THE LIBRARIES)
-Raise an Issue ticket if you have any other problems  <br><br><br>
-
-## Let's contribute together and make this chatbot to be more advanced AI Chatbot 🧐  
-
-## Authors
-
- **roshan9419**
-
-See also the list of [contributors](https://github.com/roshan9419/PersonalAssistantChatbot/graphs/contributors) who have participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
